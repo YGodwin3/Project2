@@ -1,0 +1,22 @@
+The World Bank - DataBank
+https://databank.worldbank.org/data/home
+Database:	World Development Indicators
+Countries:	All Countries
+Series: Individuals using the Internet (% of population)
+Time: 2012 - 2017
+
+Freedom House
+https://freedomhouse.org/
+https://freedomhouse.org/report-types/freedom-press
+Data Set:	https://ourworldindata.org/grapher/world-map-of-the-freedom-of-the-press-status
+
+Center for Systemic Peace - The Polity Project
+http://www.systemicpeace.org/polityproject.html
+User's Manual:	http://www.systemicpeace.org/inscr/p4manualv2017.pdf
+Data Set:	http://www.systemicpeace.org/inscr/p4v2017.xls
+Reference:	https://ourworldindata.org/grapher/political-regime-updated2016
+
+Transparency International
+Corruption Perception Index
+https://www.transparency.org/cpi2018
+Data Set:	https://ourworldindata.org/corruption

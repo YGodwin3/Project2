@@ -1,0 +1,251 @@
+﻿COUNTRY_ISO_3166_ID,COUNTRY_NM,OFFICIAL_STATE_NAME,SOVEREIGNTY,ISO_3166_ALPHA2_CD,ISO_3166_ALPHA3_CD,ISO_3166_NUMERIC_CD,INTERNET_CCTLD,WB_COUNTRY_CD,TI_COUNTRY_CD,FRD_COUNTRY_CD,REG_COUNTRY_CD,INCLUDE_FLG,JSON_COUNTRY_CD
+1,Afghanistan,The Islamic Republic of Afghanistan,UN member state,AF,AFG,4,.af,AFG,AFG,AFG,AFG,1,AFG
+2,Åland Islands,Åland,Finland,AX,ALA,248,.ax,,,,,0,
+3,Albania,The Republic of Albania,UN member state,AL,ALB,8,.al,ALB,ALB,ALB,ALB,1,ALB
+4,Algeria,The People's Democratic Republic of Algeria,UN member state,DZ,DZA,12,.dz,DZA,DZA,DZA,ALG,1,DZA
+5,American Samoa,The Territory of American Samoa,United States,AS,ASM,16,.as,ASM,,,,0,
+6,Andorra,The Principality of Andorra,UN member state,AD,AND,20,.ad,AND,,AND,,0,
+7,Angola,The Republic of Angola,UN member state,AO,AGO,24,.ao,AGO,AGO,AGO,ANG,1,AGO
+8,Anguilla,Anguilla,United Kingdom,AI,AIA,660,.ai,,,,,0,
+9,Antarctica,All land and ice shelves south of the 60th parallel south,Antarctic Treaty,AQ,ATA,10,.aq,,,,,0,ATA
+10,Antigua and Barbuda,Antigua and Barbuda,UN member state,AG,ATG,28,.ag,ATG,,ATG,,0,
+11,Argentina,The Argentine Republic,UN member state,AR,ARG,32,.ar,ARG,ARG,ARG,ARG,1,ARG
+12,Armenia,The Republic of Armenia,UN member state,AM,ARM,51,.am,ARM,ARM,ARM,ARM,1,ARM
+13,Aruba,Aruba,Netherlands,AW,ABW,533,.aw,ABW,,,,0,
+14,Australia,The Commonwealth of Australia,UN member state,AU,AUS,36,.au,AUS,AUS,AUS,AUL,1,AUS
+15,Austria,The Republic of Austria,UN member state,AT,AUT,40,.at,AUT,AUT,AUT,AUS,1,AUT
+16,Azerbaijan,The Republic of Azerbaijan,UN member state,AZ,AZE,31,.az,AZE,AZE,AZE,AZE,1,AZE
+17,Bahamas,The Commonwealth of The Bahamas,UN member state,BS,BHS,44,.bs,BHS,BHS,BHS,,0,BHS
+18,Bahrain,The Kingdom of Bahrain,UN member state,BH,BHR,48,.bh,BHR,BHR,BHR,BAH,1,
+19,Bangladesh,The People's Republic of Bangladesh,UN member state,BD,BGD,50,.bd,BGD,BGD,BGD,BNG,1,BGD
+20,Barbados,Barbados,UN member state,BB,BRB,52,.bb,BRB,BRB,BRB,,0,
+21,Belarus,The Republic of Belarus,UN member state,BY,BLR,112,.by,BLR,BLR,BLR,BLR,1,BLR
+22,Belgium,The Kingdom of Belgium,UN member state,BE,BEL,56,.be,BEL,BEL,BEL,BEL,1,BEL
+23,Belize,Belize,UN member state,BZ,BLZ,84,.bz,BLZ,,BLZ,,0,BLZ
+24,Benin,The Republic of Benin,UN member state,BJ,BEN,204,.bj,BEN,BEN,BEN,BEN,1,BEN
+25,Bermuda,Bermuda,United Kingdom,BM,BMU,60,.bm,BMU,,,,0,BMU
+26,Bhutan,The Kingdom of Bhutan,UN member state,BT,BTN,64,.bt,BTN,BTN,BTN,BHU,1,BTN
+27,Bolivia,The Plurinational State of Bolivia,UN member state,BO,BOL,68,.bo,BOL,BOL,BOL,BOL,1,BOL
+28,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Netherlands,BQ,BES,535,.nl,,,,,0,
+29,Bosnia and Herzegovina,Bosnia and Herzegovina,UN member state,BA,BIH,70,.ba,BIH,BIH,BIH,BOS,1,BIH
+30,Botswana,The Republic of Botswana,UN member state,BW,BWA,72,.bw,BWA,BWA,BWA,BOT,1,BWA
+31,Bouvet Island,Bouvet Island,Norway,BV,BVT,74,,,,,,0,
+32,Brazil,The Federative Republic of Brazil,UN member state,BR,BRA,76,.br,BRA,BRA,BRA,BRA,1,BRA
+33,British Indian Ocean Territory,The British Indian Ocean Territory,United Kingdom,IO,IOT,86,.io,,,,,0,
+34,Brunei Darussalam,"The Nation of Brunei, the Abode of Peace",UN member state,BN,BRN,96,.bn,BRN,BRN,BRN,,0,BRN
+35,Bulgaria,The Republic of Bulgaria,UN member state,BG,BGR,100,.bg,BGR,BGR,BGR,BUL,1,BGR
+36,Burkina Faso,Burkina Faso,UN member state,BF,BFA,854,.bf,BFA,BFA,BFA,BFO,1,BFA
+37,Burundi,The Republic of Burundi,UN member state,BI,BDI,108,.bi,BDI,BDI,BDI,BUI,1,BDI
+38,Cabo Verde,The Republic of Cabo Verde,UN member state,CV,CPV,132,.cv,CPV,CPV,CPV,CAP,1,
+39,Cambodia,The Kingdom of Cambodia,UN member state,KH,KHM,116,.kh,KHM,KHM,KHM,CAM,1,KHM
+40,Cameroon,The Republic of Cameroon,UN member state,CM,CMR,120,.cm,CMR,CMR,CMR,CAO,1,CMR
+41,Canada,Canada,UN member state,CA,CAN,124,.ca,CAN,CAN,CAN,CAN,1,CAN
+42,Cayman Islands,The Cayman Islands,United Kingdom,KY,CYM,136,.ky,CYM,,,,0,
+43,Central African Republic,The Central African Republic,UN member state,CF,CAF,140,.cf,CAF,CAF,CAF,CEN,1,CAF
+44,Chad,The Republic of Chad,UN member state,TD,TCD,148,.td,TCD,TCD,TCD,CHA,1,TCD
+45,Chile,The Republic of Chile,UN member state,CL,CHL,152,.cl,CHL,CHL,CHL,CHL,1,CHL
+46,China,The People's Republic of China,UN member state,CN,CHN,156,.cn,CHN,CHN,CHN,CHN,1,CHN
+47,Christmas Island,The Territory of Christmas Island,Australia,CX,CXR,162,.cx,,,,,0,
+48,Cocos (Keeling) Islands,The Territory of Cocos (Keeling) Islands,Australia,CC,CCK,166,.cc,,,,,0,
+49,Colombia,The Republic of Colombia,UN member state,CO,COL,170,.co,COL,COL,COL,COL,1,COL
+50,Comoros,The Union of the Comoros,UN member state,KM,COM,174,.km,COM,COM,COM,COM,1,
+51,Congo-Kinshasa,The Democratic Republic of the Congo,UN member state,CD,COD,180,.cd,COD,COD,COD,ZAI,1,COD
+52,Congo-Brazzaville,The Republic of the Congo,UN member state,CG,COG,178,.cg,COG,COG,COG,CON,1,COG
+53,Cook Islands,The Cook Islands,New Zealand,CK,COK,184,.ck,,,,,0,
+54,Costa Rica,The Republic of Costa Rica,UN member state,CR,CRI,188,.cr,CRI,CRI,CRI,COS,1,CRI
+55,Côte d'Ivoire,The Republic of Côte d'Ivoire,UN member state,CI,CIV,384,.ci,CIV,CIV,CIV,IVO,1,CIV
+56,Croatia,The Republic of Croatia,UN member state,HR,HRV,191,.hr,HRV,HRV,HRV,CRO,1,HRV
+57,Cuba,The Republic of Cuba,UN member state,CU,CUB,192,.cu,CUB,CUB,CUB,CUB,1,CUB
+58,Curaçao,The Country of Curaçao,Netherlands,CW,CUW,531,.cw,CUW,,,,0,
+59,Cyprus,The Republic of Cyprus,UN member state,CY,CYP,196,.cy,CYP,CYP,CYP,CYP,1,CYP
+60,Czechia,The Czech Republic,UN member state,CZ,CZE,203,.cz,CZE,CZE,CZE,CZR,1,CZE
+61,Denmark,The Kingdom of Denmark,UN member state,DK,DNK,208,.dk,DNK,DNK,DNK,DEN,1,DNK
+62,Djibouti,The Republic of Djibouti,UN member state,DJ,DJI,262,.dj,DJI,DJI,DJI,DJI,1,DJI
+63,Dominica,The Commonwealth of Dominica,UN member state,DM,DMA,212,.dm,DMA,DMA,DMA,,0,
+64,Dominican Republic,The Dominican Republic,UN member state,DO,DOM,214,.do,DOM,DOM,DOM,DOM,1,DOM
+65,Ecuador,The Republic of Ecuador,UN member state,EC,ECU,218,.ec,ECU,ECU,ECU,ECU,1,ECU
+66,Egypt,The Arab Republic of Egypt,UN member state,EG,EGY,818,.eg,EGY,EGY,EGY,EGY,1,EGY
+67,El Salvador,The Republic of El Salvador,UN member state,SV,SLV,222,.sv,SLV,SLV,SLV,SAL,1,SLV
+68,Equatorial Guinea,The Republic of Equatorial Guinea,UN member state,GQ,GNQ,226,.gq,GNQ,GNQ,GNQ,EQG,1,GNQ
+69,Eritrea,The State of Eritrea,UN member state,ER,ERI,232,.er,ERI,ERI,ERI,ERI,1,ERI
+70,Estonia,The Republic of Estonia,UN member state,EE,EST,233,.ee,EST,EST,EST,EST,1,EST
+71,Eswatini,The Kingdom of Eswatini,UN member state,SZ,SWZ,748,.sz,SWZ,SWZ,SWZ,SWA,1,SWZ
+72,Ethiopia,The Federal Democratic Republic of Ethiopia,UN member state,ET,ETH,231,.et,ETH,ETH,ETH,ETI,1,ETH
+73,Falkland Islands (Malvinas),The Falkland Islands,United Kingdom,FK,FLK,238,.fk,,,,,0,FLK
+74,Faroe Islands,The Faroe Islands,Denmark,FO,FRO,234,.fo,FRO,,,,0,
+75,Fiji,The Republic of Fiji,UN member state,FJ,FJI,242,.fj,FJI,,FJI,FJI,0,FJI
+76,Finland,The Republic of Finland,UN member state,FI,FIN,246,.fi,FIN,FIN,FIN,FIN,1,FIN
+77,France,The French Republic,UN member state,FR,FRA,250,.fr,FRA,FRA,FRA,FRN,1,FRA
+78,French Guiana,Guyane,France,GF,GUF,254,.gf,,,,,0,GUF
+79,French Polynesia,French Polynesia,France,PF,PYF,258,.pf,PYF,,,,0,
+80,French Southern Territories,The French Southern and Antarctic Lands,France,TF,ATF,260,.tf,,,,,0,ATF
+81,Gabon,The Gabonese Republic,UN member state,GA,GAB,266,.ga,GAB,GAB,GAB,GAB,1,GAB
+82,Gambia,The Republic of The Gambia,UN member state,GM,GMB,270,.gm,GMB,GMB,GMB,GAM,1,GMB
+83,Georgia,Georgia,UN member state,GE,GEO,268,.ge,GEO,GEO,GEO,GRG,1,GEO
+84,Germany,The Federal Republic of Germany,UN member state,DE,DEU,276,.de,DEU,DEU,DEU,GMY,1,DEU
+85,Ghana,The Republic of Ghana,UN member state,GH,GHA,288,.gh,GHA,GHA,GHA,GHA,1,GHA
+86,Gibraltar,Gibraltar,United Kingdom,GI,GIB,292,.gi,GIB,,,,0,
+87,Greece,The Hellenic Republic,UN member state,GR,GRC,300,.gr,GRC,GRC,GRC,GRC,1,GRC
+88,Greenland,Kalaallit Nunaat,Denmark,GL,GRL,304,.gl,GRL,,,,0,GRL
+89,Grenada,Grenada,UN member state,GD,GRD,308,.gd,GRD,GRD,GRD,,0,
+90,Guadeloupe,Guadeloupe,France,GP,GLP,312,.gp,,,,,0,
+91,Guam,The Territory of Guam,United States,GU,GUM,316,.gu,GUM,,,,0,
+92,Guatemala,The Republic of Guatemala,UN member state,GT,GTM,320,.gt,GTM,GTM,GTM,GUA,1,GTM
+93,Guernsey,The Bailiwick of Guernsey,British Crown,GG,GGY,831,.gg,,,,,0,
+94,Guinea,The Republic of Guinea,UN member state,GN,GIN,324,.gn,GIN,GIN,GIN,GUI,1,GIN
+95,Guinea-Bissau,The Republic of Guinea-Bissau,UN member state,GW,GNB,624,.gw,GNB,GNB,GNB,GNB,1,GNB
+96,Guyana,The Co-operative Republic of Guyana,UN member state,GY,GUY,328,.gy,GUY,GUY,GUY,GUY,1,GUY
+97,Haiti,The Republic of Haiti,UN member state,HT,HTI,332,.ht,HTI,HTI,HTI,HAI,1,HTI
+98,Heard Island and McDonald Islands,The Territory of Heard Island and McDonald Islands,Australia,HM,HMD,334,.hm,,,,,0,
+99,Holy See,The Holy See,UN observer,VA,VAT,336,.va,,,,,0,
+100,Honduras,The Republic of Honduras,UN member state,HN,HND,340,.hn,HND,HND,HND,HON,1,HND
+101,Hong Kong,The Hong Kong Special Administrative Region of China,China,HK,HKG,344,.hk,HKG,HKG,HKG,,0,
+102,Hungary,Hungary,UN member state,HU,HUN,348,.hu,HUN,HUN,HUN,HUN,1,HUN
+103,Iceland,Iceland,UN member state,IS,ISL,352,.is,ISL,ISL,ISL,,0,ISL
+104,India,The Republic of India,UN member state,IN,IND,356,.in,IND,IND,IND,IND,1,IND
+105,Indonesia,The Republic of Indonesia,UN member state,ID,IDN,360,.id,IDN,IDN,IDN,INS,1,IDN
+106,Iran,The Islamic Republic of Iran,UN member state,IR,IRN,364,.ir,IRN,IRN,IRN,IRN,1,IRN
+107,Iraq,The Republic of Iraq,UN member state,IQ,IRQ,368,.iq,IRQ,IRQ,IRQ,IRQ,1,IRQ
+108,Ireland,Ireland,UN member state,IE,IRL,372,.ie,IRL,IRL,IRL,IRE,1,IRL
+109,Isle of Man,The Isle of Man,British Crown,IM,IMN,833,.im,IMN,,,,0,
+110,Israel,The State of Israel,UN member state,IL,ISR,376,.il,ISR,ISR,ISR,ISR,1,ISR
+111,Italy,The Italian Republic,UN member state,IT,ITA,380,.it,ITA,ITA,ITA,ITA,1,ITA
+112,Jamaica,Jamaica,UN member state,JM,JAM,388,.jm,JAM,JAM,JAM,JAM,1,JAM
+113,Japan,Japan,UN member state,JP,JPN,392,.jp,JPN,JPN,JPN,JPN,1,JPN
+114,Jersey,The Bailiwick of Jersey,British Crown,JE,JEY,832,.je,,,,,0,
+115,Jordan,The Hashemite Kingdom of Jordan,UN member state,JO,JOR,400,.jo,JOR,JOR,JOR,JOR,1,JOR
+116,Kazakhstan,The Republic of Kazakhstan,UN member state,KZ,KAZ,398,.kz,KAZ,KAZ,KAZ,KZK,1,KAZ
+117,Kenya,The Republic of Kenya,UN member state,KE,KEN,404,.ke,KEN,KEN,KEN,KEN,1,KEN
+118,Kiribati,The Republic of Kiribati,UN member state,KI,KIR,296,.ki,KIR,,KIR,,0,
+119,Kosovo,The Republic of Kosovo,Disputed,XK,XKX,,,XKX,OWID_KOS,OWID_KOS,KOS,1,CS-KM
+120,North Korea,The Democratic People's Republic of Korea,UN member state,KP,PRK,408,.kp,PRK,PRK,PRK,PRK,1,PRK
+121,Korea,The Republic of Korea,UN member state,KR,KOR,410,.kr,KOR,KOR,KOR,ROK,1,KOR
+122,Kuwait,The State of Kuwait,UN member state,KW,KWT,414,.kw,KWT,KWT,KWT,KUW,1,KWT
+123,Kyrgyzstan,The Kyrgyz Republic,UN member state,KG,KGZ,417,.kg,KGZ,KGZ,KGZ,KYR,1,KGZ
+124,Laos,The Lao People's Democratic Republic,UN member state,LA,LAO,418,.la,LAO,LAO,LAO,LAO,1,LAO
+125,Latvia,The Republic of Latvia,UN member state,LV,LVA,428,.lv,LVA,LVA,LVA,LAT,1,LVA
+126,Lebanon,The Lebanese Republic,UN member state,LB,LBN,422,.lb,LBN,LBN,LBN,LEB,1,LBN
+127,Lesotho,The Kingdom of Lesotho,UN member state,LS,LSO,426,.ls,LSO,LSO,LSO,LES,1,LSO
+128,Liberia,The Republic of Liberia,UN member state,LR,LBR,430,.lr,LBR,LBR,LBR,LBR,1,LBR
+129,Libya,The State of Libya,UN member state,LY,LBY,434,.ly,LBY,LBY,LBY,LIB,1,LBY
+130,Liechtenstein,The Principality of Liechtenstein,UN member state,LI,LIE,438,.li,LIE,,LIE,,0,
+131,Lithuania,The Republic of Lithuania,UN member state,LT,LTU,440,.lt,LTU,LTU,LTU,LIT,1,LTU
+132,Luxembourg,The Grand Duchy of Luxembourg,UN member state,LU,LUX,442,.lu,LUX,LUX,LUX,LUX,1,LUX
+133,Macao,Macao Special Administrative Region of China,China,MO,MAC,446,.mo,MAC,,,MAC,0,
+134,North Macedonia,Republic of North Macedonia,UN member state,MK,MKD,807,.mk,MKD,MKD,MKD,,0,MKD
+135,Madagascar,The Republic of Madagascar,UN member state,MG,MDG,450,.mg,MDG,MDG,MDG,MAG,1,MDG
+136,Malawi,The Republic of Malawi,UN member state,MW,MWI,454,.mw,MWI,MWI,MWI,MAW,1,MWI
+137,Malaysia,Malaysia,UN member state,MY,MYS,458,.my,MYS,MYS,MYS,MAL,1,MYS
+138,Maldives,The Republic of Maldives,UN member state,MV,MDV,462,.mv,MDV,MDV,MDV,,0,
+139,Mali,The Republic of Mali,UN member state,ML,MLI,466,.ml,MLI,MLI,MLI,MLI,1,MLI
+140,Malta,The Republic of Malta,UN member state,MT,MLT,470,.mt,MLT,MLT,MLT,,0,MLT
+141,Marshall Islands,The Republic of the Marshall Islands,UN member state,MH,MHL,584,.mh,MHL,,MHL,,0,
+142,Martinique,Martinique,France,MQ,MTQ,474,.mq,,,,,0,
+143,Mauritania,The Islamic Republic of Mauritania,UN member state,MR,MRT,478,.mr,MRT,MRT,MRT,MAA,1,MRT
+144,Mauritius,The Republic of Mauritius,UN member state,MU,MUS,480,.mu,MUS,MUS,MUS,MAS,1,
+145,Mayotte,The Department of Mayotte,France,YT,MYT,175,.yt,,,,,0,
+146,Mexico,The United Mexican States,UN member state,MX,MEX,484,.mx,MEX,MEX,MEX,MEX,1,MEX
+147,Micronesia,The Federated States of Micronesia,UN member state,FM,FSM,583,.fm,FSM,,,,0,
+148,Moldova,The Republic of Moldova,UN member state,MD,MDA,498,.md,MDA,MDA,MDA,MLD,1,MDA
+149,Monaco,The Principality of Monaco,UN member state,MC,MCO,492,.mc,MCO,,MCO,,0,
+150,Mongolia,The State of Mongolia,UN member state,MN,MNG,496,.mn,MNG,MNG,MNG,MON,1,MNG
+151,Montenegro,Montenegro,UN member state,ME,MNE,499,.me,MNE,MNE,MNE,MNT,1,MNE
+152,Montserrat,Montserrat,United Kingdom,MS,MSR,500,.ms,,,,,0,
+153,Morocco,The Kingdom of Morocco,UN member state,MA,MAR,504,.ma,MAR,MAR,MAR,MOR,1,MAR
+154,Mozambique,The Republic of Mozambique,UN member state,MZ,MOZ,508,.mz,MOZ,MOZ,MOZ,MZM,1,MOZ
+155,Myanmar,The Republic of the Union of Myanmar,UN member state,MM,MMR,104,.mm,MMR,MMR,MMR,MYA,1,MMR
+156,Namibia,The Republic of Namibia,UN member state,NA,NAM,516,.na,NAM,NAM,NAM,NAM,1,NAM
+157,Nauru,The Republic of Nauru,UN member state,NR,NRU,520,.nr,NRU,,NRU,,0,
+158,Nepal,The Federal Democratic Republic of Nepal,UN member state,NP,NPL,524,.np,NPL,NPL,NPL,NEP,1,NPL
+159,Netherlands,The Kingdom of the Netherlands,UN member state,NL,NLD,528,.nl,NLD,NLD,NLD,NTH,1,NLD
+160,New Caledonia,New Caledonia,France,NC,NCL,540,.nc,NCL,,,,0,NCL
+161,New Zealand,New Zealand,UN member state,NZ,NZL,554,.nz,NZL,NZL,NZL,NEW,1,NZL
+162,Nicaragua,The Republic of Nicaragua,UN member state,NI,NIC,558,.ni,NIC,NIC,NIC,NIC,1,NIC
+163,Niger,The Republic of the Niger,UN member state,NE,NER,562,.ne,NER,NER,NER,NIR,1,NER
+164,Nigeria,The Federal Republic of Nigeria,UN member state,NG,NGA,566,.ng,NGA,NGA,NGA,NIG,1,NGA
+165,Niue,Niue,New Zealand,NU,NIU,570,.nu,,,,,0,
+166,Norfolk Island,The Territory of Norfolk Island,Australia,NF,NFK,574,.nf,,,,,0,
+167,Northern Mariana Islands,The Commonwealth of the Northern Mariana Islands,United States,MP,MNP,580,.mp,MNP,,,,0,
+168,Norway,The Kingdom of Norway,UN member state,NO,NOR,578,.no,NOR,NOR,NOR,NOR,1,NOR
+169,Oman,The Sultanate of Oman,UN member state,OM,OMN,512,.om,OMN,OMN,OMN,OMA,1,OMN
+170,Pakistan,The Islamic Republic of Pakistan,UN member state,PK,PAK,586,.pk,PAK,PAK,PAK,PAK,1,PAK
+171,Palau,The Republic of Palau,UN member state,PW,PLW,585,.pw,PLW,,PLW,,0,
+172,"Palestine, State of",The State of Palestine,UN observer,PS,PSE,275,.ps,PSE,,PSE,,0,PSE
+173,Panama,The Republic of Panamá,UN member state,PA,PAN,591,.pa,PAN,PAN,PAN,PAN,1,PAN
+174,Papua New Guinea,The Independent State of Papua New Guinea,UN member state,PG,PNG,598,.pg,PNG,PNG,PNG,PNG,1,PNG
+175,Paraguay,The Republic of Paraguay,UN member state,PY,PRY,600,.py,PRY,PRY,PRY,PAR,1,PRY
+176,Peru,The Republic of Perú,UN member state,PE,PER,604,.pe,PER,PER,PER,PER,1,PER
+177,Philippines,The Republic of the Philippines,UN member state,PH,PHL,608,.ph,PHL,PHL,PHL,PHI,1,PHL
+178,Pitcairn,"The Pitcairn, Henderson, Ducie and Oeno Islands",United Kingdom,PN,PCN,612,.pn,,,,,0,
+179,Poland,The Republic of Poland,UN member state,PL,POL,616,.pl,POL,POL,POL,POL,1,POL
+180,Portugal,The Portuguese Republic,UN member state,PT,PRT,620,.pt,PRT,PRT,PRT,POR,1,PRT
+181,Puerto Rico,The Commonwealth of Puerto Rico,United States,PR,PRI,630,.pr,PRI,,,,0,PRI
+182,Qatar,The State of Qatar,UN member state,QA,QAT,634,.qa,QAT,QAT,QAT,QAT,1,QAT
+183,Réunion,Réunion,France,RE,REU,638,.re,,,,,0,
+184,Romania,Romania,UN member state,RO,ROU,642,.ro,ROU,ROU,ROU,RUM,1,ROU
+185,Russia,The Russian Federation,UN member state,RU,RUS,643,.ru,RUS,RUS,RUS,RUS,1,RUS
+186,Rwanda,The Republic of Rwanda,UN member state,RW,RWA,646,.rw,RWA,RWA,RWA,RWA,1,RWA
+187,Saint Barthélemy,The Collectivity of Saint-Barthélemy,France,BL,BLM,652,.bl,,,,,0,
+188,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",United Kingdom,SH,SHN,654,.sh,,,,,0,
+189,Saint Kitts and Nevis,Saint Kitts and Nevis,UN member state,KN,KNA,659,.kn,KNA,,KNA,,0,
+190,Saint Lucia,Saint Lucia,UN member state,LC,LCA,662,.lc,LCA,LCA,LCA,,0,
+191,Saint Martin (French),The Collectivity of Saint-Martin,France,MF,MAF,663,.mf,MAF,,,,0,
+192,Saint Pierre and Miquelon,The Overseas Collectivity of Saint-Pierre and Miquelon,France,PM,SPM,666,.pm,,,,,0,
+193,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,UN member state,VC,VCT,670,.vc,VCT,VCT,VCT,,0,
+194,Samoa,The Independent State of Samoa,UN member state,WS,WSM,882,.ws,WSM,,WSM,,0,
+195,San Marino,The Republic of San Marino,UN member state,SM,SMR,674,.sm,SMR,,SMR,,0,
+196,Sao Tome and Principe,The Democratic Republic of São Tomé and Príncipe,UN member state,ST,STP,678,.st,STP,STP,STP,,0,
+197,Saudi Arabia,The Kingdom of Saudi Arabia,UN member state,SA,SAU,682,.sa,SAU,SAU,SAU,SAU,1,SAU
+198,Senegal,The Republic of Senegal,UN member state,SN,SEN,686,.sn,SEN,SEN,SEN,SEN,1,SEN
+199,Serbia,The Republic of Serbia,UN member state,RS,SRB,688,.rs,SRB,SRB,SRB,SER,1,SRB
+200,Seychelles,The Republic of Seychelles,UN member state,SC,SYC,690,.sc,SYC,SYC,SYC,,0,
+201,Sierra Leone,The Republic of Sierra Leone,UN member state,SL,SLE,694,.sl,SLE,SLE,SLE,SIE,1,SLE
+202,Singapore,The Republic of Singapore,UN member state,SG,SGP,702,.sg,SGP,SGP,SGP,SIN,1,
+203,Sint Maarten (Dutch),Sint Maarten,Netherlands,SX,SXM,534,.sx,SXM,,,,0,
+204,Slovakia,The Slovak Republic,UN member state,SK,SVK,703,.sk,SVK,SVK,SVK,SLO,1,SVK
+205,Slovenia,The Republic of Slovenia,UN member state,SI,SVN,705,.si,SVN,SVN,SVN,,0,SVN
+206,Solomon Islands,The Solomon Islands,UN member state,SB,SLB,90,.sb,SLB,SLB,SLB,SOL,1,SLB
+207,Somalia,The Federal Republic of Somalia,UN member state,SO,SOM,706,.so,SOM,SOM,SOM,SOM,1,SOM
+208,South Africa,The Republic of South Africa,UN member state,ZA,ZAF,710,.za,ZAF,ZAF,ZAF,SAF,1,ZAF
+209,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,United Kingdom,GS,SGS,239,.gs,,,,,0,
+210,South Sudan,The Republic of South Sudan,UN member state,SS,SSD,728,.ss,SSD,SSD,SSD,SSU,1,SSD
+211,Spain,The Kingdom of Spain,UN member state,ES,ESP,724,.es,ESP,ESP,ESP,SPN,1,ESP
+212,Sri Lanka,The Democratic Socialist Republic of Sri Lanka,UN member state,LK,LKA,144,.lk,LKA,LKA,LKA,SRI,1,LKA
+213,Sudan,The Republic of the Sudan,UN member state,SD,SDN,729,.sd,SDN,SDN,SDN,SDN,1,SDN
+214,Suriname,The Republic of Suriname,UN member state,SR,SUR,740,.sr,SUR,SUR,SUR,SUR,1,SUR
+215,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Norway,SJ,SJM,744,,,,,,0,
+216,Sweden,The Kingdom of Sweden,UN member state,SE,SWE,752,.se,SWE,SWE,SWE,SWD,1,SWE
+217,Switzerland,The Swiss Confederation,UN member state,CH,CHE,756,.ch,CHE,CHE,CHE,,0,CHE
+218,Syria,The Syrian Arab Republic,UN member state,SY,SYR,760,.sy,SYR,SYR,SYR,SYR,1,SYR
+219,Taiwan,The Republic of China,disputed,TW,TWN,158,.tw,,TWN,TWN,TAW,0,TWN
+220,Tajikistan,The Republic of Tajikistan,UN member state,TJ,TJK,762,.tj,TJK,TJK,TJK,TAJ,1,TJK
+221,Tanzania,The United Republic of Tanzania,UN member state,TZ,TZA,834,.tz,TZA,TZA,TZA,TAZ,1,TZA
+222,Thailand,The Kingdom of Thailand,UN member state,TH,THA,764,.th,THA,THA,THA,THI,1,THA
+223,Timor-Leste,The Democratic Republic of Timor-Leste,UN member state,TL,TLS,626,.tl,TLS,TLS,TLS,ETM,1,TLS
+224,Togo,The Togolese Republic,UN member state,TG,TGO,768,.tg,TGO,TGO,TGO,TOG,1,TGO
+225,Tokelau,Tokelau,New Zealand,TK,TKL,772,.tk,,,,,0,
+226,Tonga,The Kingdom of Tonga,UN member state,TO,TON,776,.to,TON,,TON,,0,
+227,Trinidad and Tobago,The Republic of Trinidad and Tobago,UN member state,TT,TTO,780,.tt,TTO,TTO,TTO,TRI,1,TTO
+228,Tunisia,The Republic of Tunisia,UN member state,TN,TUN,788,.tn,TUN,TUN,TUN,TUN,1,TUN
+229,Turkey,The Republic of Turkey,UN member state,TR,TUR,792,.tr,TUR,TUR,TUR,TUR,1,TUR
+230,Turkmenistan,Turkmenistan,UN member state,TM,TKM,795,.tm,TKM,TKM,TKM,TKM,1,TKM
+231,Turks and Caicos Islands,The Turks and Caicos Islands,United Kingdom,TC,TCA,796,.tc,TCA,,,,0,
+232,Tuvalu,Tuvalu,UN member state,TV,TUV,798,.tv,TUV,,TUV,,0,
+233,Uganda,The Republic of Uganda,UN member state,UG,UGA,800,.ug,UGA,UGA,UGA,UGA,1,UGA
+234,Ukraine,Ukraine,UN member state,UA,UKR,804,.ua,UKR,UKR,UKR,UKR,1,UKR
+235,United Arab Emirates,The United Arab Emirates,UN member state,AE,ARE,784,.ae,ARE,ARE,ARE,UAE,1,ARE
+236,United Kingdom,The United Kingdom of Great Britain and Northern Ireland,UN member state,GB,GBR,826,.uk,GBR,GBR,GBR,UKG,1,GBR
+237,United States Minor Outlying Islands,"Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island",United States,UM,UMI,581,,,,,,0,
+238,United States of America,The United States of America,UN member state,US,USA,840,.us,USA,USA,USA,USA,1,USA
+239,Uruguay,The Oriental Republic of Uruguay,UN member state,UY,URY,858,.uy,URY,URY,URY,URU,1,URY
+240,Uzbekistan,The Republic of Uzbekistan,UN member state,UZ,UZB,860,.uz,UZB,UZB,UZB,UZB,1,UZB
+241,Vanuatu,The Republic of Vanuatu,UN member state,VU,VUT,548,.vu,VUT,VUT,VUT,,0,VUT
+242,Venezuela,The Bolivarian Republic of Venezuela,UN member state,VE,VEN,862,.ve,VEN,VEN,VEN,VEN,1,VEN
+243,Viet Nam,The Socialist Republic of Viet Nam,UN member state,VN,VNM,704,.vn,VNM,VNM,VNM,VIE,1,VNM
+244,Virgin Islands (British),The Virgin Islands,United Kingdom,VG,VGB,92,.vg,VGB,,,,0,
+245,Virgin Islands (U.S.),The Virgin Islands of the United States,United States,VI,VIR,850,.vi,VIR,,,,0,
+246,Wallis and Futuna,The Territory of the Wallis and Futuna Islands,France,WF,WLF,876,.wf,,,,,0,
+247,Western Sahara,The Sahrawi Arab Democratic Republic,disputed,EH,ESH,732,,,,,,0,ESH
+248,Yemen,The Republic of Yemen,UN member state,YE,YEM,887,.ye,YEM,YEM,YEM,YEM,1,YEM
+249,Zambia,The Republic of Zambia,UN member state,ZM,ZMB,894,.zm,ZMB,ZMB,ZMB,ZAM,1,ZMB
+250,Zimbabwe,The Republic of Zimbabwe,UN member state,ZW,ZWE,716,.zw,ZWE,ZWE,ZWE,ZIM,1,ZWE

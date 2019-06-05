@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Internet and Freedom</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+  <script src="static/js/choropleth.js"></script> 
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <!-- Header with Title and short description of dashboard -->
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Access of Information Dashboard</h1>
+        <p>Use the interactive dashboard to learn about the correlations among <br> 
+          Internet User Rate, Polity/Regime Status, Corruption Perception, and Freedom of the Press.
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
+        <h4>Select Year:</h4>
+        <select id="selYear" onchange="optionChanged(this.value)"></select>
+    </div>
+
+<!-- first row with two graphs -->
+    <div class="row">
+        <div class="col-md-6">
+          <h3>Internet User Rate</h3>
+          <p>Individuals using the internet as a percentage of a country's population.<br> 
+             Source: World Bank</p>
+          <div id="internet_map"></div>
+        </div>
+        <div class="col-md-6">
+          <h3>Freedom of the Press Status</h3>
+          <p>Level of freedom and editorial independence enjoyed by the press: Not Free, Partly Free, and Free.
+             Source: Freedom House</p>
+          <div id="freedom_map"></div>
+        </div>
+    </div>
+<!-- second row with two more graphs -->
+    <div class="row">
+    <div class="col-md-6">
+        <h3>Corruption Index</h3>
+        <p>Perceived levels of public sector corruption from highly corrupt (0) to very clean (100).
+           Source: Transparency International</p>
+        <div id="corruption_map"></div>
+      </div>
+      <div class="col-md-6">
+          <h3>Polity Score</h3>
+          <p>Captures regime institionalized authority on a scale ranging from fully autocratic (-10) to fully democratic (10).
+             Source: Center for Systemic Peace - The Polity Project</p>
+          <div id="polity_map"></div>
+      </div>
+    </div>
+
+  
+
+<!-- div with bubble chart and drop down to select year -->
+    <div class="row">
+      <div class="col-md-12">
+          <h3>Correlation Bubble Chart</h3>
+          <p>Chart displays the correlation between Corruption, Internet User Rate, Political Regime, and Freedom of the Press
+            where countries with more corrupt autoritarian regimes have lesser internet user rates. There are likely
+            confounding variables that we are not controlling for that influence these results, i.e. country development level,
+            education, internal conflicts, etc.</p>
+
+       <div id="bubble"></div>
+      </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Political Regimes & Freedom Status</h3>
+        </div>
+    
+    <!-- tableau graphs -->
+    <div class='tableauPlaceholder' id='viz1559606468773' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;in&#47;informationfreedom&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='informationfreedom&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;in&#47;informationfreedom&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1559606468773');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.minWidth='820px';vizElement.style.maxWidth='1120px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+  </div>
+
+    <footer class="page-footer jumbotron">
+      <!-- <div class="footer-copyright text-center fixed-bottom"> -->
+          <div class="page-footer fixed-bottom text-center">
+          <h5>
+              © 2019 Copyright:
+              <a href="https://github.com/deottoni/Project2_Fab5" target="_blank">
+                <img src="/static/images/GitHub-Logo.png" alt="github_logo" height="30px" width="30px">
+            </a>
+          </h5>
+      </div>
+    </footer>
+  </div>
+
+  <!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="{{ url_for('static', filename='js/config.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/logic.js') }}"></script>
+
+</body>
+</html>
